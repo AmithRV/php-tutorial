@@ -1,6 +1,6 @@
-![alt text](images/python_logo.ico) 
+![alt text](python.jpg) 
 # Python Code Tutorials
-This is a repository of all the tutorials of [PHP].
+This is a repository of the tutorials of PHP.
 ## List of Tutorials
 - ### [Ethical Hacking](https://www.thepythoncode.com/topic/ethical-hacking)
     -  ### [Scapy](https://www.thepythoncode.com/topic/scapy)
