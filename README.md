@@ -1,7 +1,7 @@
 ![alt text](python.jpg) 
-# Python Code Tutorials
+# PHP Code Tutorials
 This is a repository of the tutorials of PHP.
 ## List of Tutorials
-- ### [Ethical Hacking](https://www.thepythoncode.com/topic/ethical-hacking)
-    -  ### [Scapy](https://www.thepythoncode.com/topic/scapy)
+- ### [PHP Forms](https://www.w3schools.com/php/php_forms.asp)
+    -  ### [PHP Form Handling](https://www.w3schools.com/php/php_forms.asp)
         - [Getting Started With Scapy: Python Network Manipulation Tool](https://www.thepythoncode.com/article/getting-started-with-scapy)
